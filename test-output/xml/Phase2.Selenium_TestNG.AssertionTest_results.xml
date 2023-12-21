@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Other Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.025">
+  <properties />
+  
+  
+            <testcase name="testAsserts" time="0.005" classname="Phase2.Selenium_TestNG.AssertionTest" />
+                <testcase name="hardAssertTest" time="0.003" classname="Phase2.Selenium_TestNG.AssertionTest" />
+                <testcase name="softAssertTest" time="0.017" classname="Phase2.Selenium_TestNG.AssertionTest" />
+      
+</testsuite>

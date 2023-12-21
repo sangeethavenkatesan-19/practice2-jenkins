@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Amazon Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.945">
+  <properties />
+  
+  
+            <testcase name="LinkTest2" time="3.766" classname="Amazon_TestNG.CSSselector" />
+                <testcase name="tdLinkTest1" time="4.179" classname="Amazon_TestNG.CSSselector" />
+      
+</testsuite>
