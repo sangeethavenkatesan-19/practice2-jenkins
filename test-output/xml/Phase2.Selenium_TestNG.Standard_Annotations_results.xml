@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.002">
+           time="0.020">
   <properties />
   
   
-            <testcase name="testOne" time="0.001" classname="Phase2.Selenium_TestNG.Standard_Annotations" />
-                <testcase name="testTwo" time="0.001" classname="Phase2.Selenium_TestNG.Standard_Annotations" />
+            <testcase name="testOne" time="0.006" classname="Phase2.Selenium_TestNG.Standard_Annotations" />
+                <testcase name="testTwo" time="0.014" classname="Phase2.Selenium_TestNG.Standard_Annotations" />
       
 </testsuite>

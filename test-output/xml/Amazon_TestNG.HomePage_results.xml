@@ -4,9 +4,9 @@
            failures="1"
            errors="0"
            skipped="0"
-           time="1.138">
+           time="1.233">
   <properties />
-            <testcase name="amazonSourceURL2" time="0.206" classname="Amazon_TestNG.HomePage">
+            <testcase name="amazonSourceURL2" time="0.550" classname="Amazon_TestNG.HomePage">
                 <failure type="java.lang.AssertionError"
                   message="did not expect [https://www.amazon.in/] but found [https://www.amazon.in/]"
               >
@@ -49,8 +49,8 @@
           </testcase>
   
   
-            <testcase name="amazonHomePageTitle2" time="0.061" classname="Amazon_TestNG.HomePage" />
-                <testcase name="amazonHomePageTitle1" time="0.306" classname="Amazon_TestNG.HomePage" />
-                <testcase name="amazonSourceURL1" time="0.565" classname="Amazon_TestNG.HomePage" />
+            <testcase name="amazonSourceURL1" time="0.049" classname="Amazon_TestNG.HomePage" />
+                <testcase name="amazonHomePageTitle1" time="0.343" classname="Amazon_TestNG.HomePage" />
+                <testcase name="amazonHomePageTitle2" time="0.291" classname="Amazon_TestNG.HomePage" />
       
 </testsuite>

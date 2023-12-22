@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="10.156">
+           time="11.102">
   <properties />
   
   
-            <testcase name="search1" time="5.168" classname="Amazon_TestNG.SearchTest" />
-                <testcase name="search2" time="4.988" classname="Amazon_TestNG.SearchTest" />
+            <testcase name="search2" time="5.811" classname="Amazon_TestNG.SearchTest" />
+                <testcase name="search1" time="5.291" classname="Amazon_TestNG.SearchTest" />
       
 </testsuite>

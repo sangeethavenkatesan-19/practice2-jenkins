@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.537">
+           time="0.545">
   <properties />
   
   
             <testcase name="r1" time="0.004" classname="Phase2.Selenium_TestNG.AttributeTest" />
+                <testcase name="r2" time="0.525" classname="Phase2.Selenium_TestNG.AttributeTest" />
+                <testcase name="testTwo" time="0.003" classname="Phase2.Selenium_TestNG.AttributeTest" />
                 <testcase name="testOne" time="0.003" classname="Phase2.Selenium_TestNG.AttributeTest" />
-                <testcase name="r3" time="0.001" classname="Phase2.Selenium_TestNG.AttributeTest" />
-                <testcase name="r2" time="0.527" classname="Phase2.Selenium_TestNG.AttributeTest" />
-                <testcase name="testTwo" time="0.002" classname="Phase2.Selenium_TestNG.AttributeTest" />
+                <testcase name="r3" time="0.010" classname="Phase2.Selenium_TestNG.AttributeTest" />
       
 </testsuite>

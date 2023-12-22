@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.025">
+           time="0.033">
   <properties />
   
   
-            <testcase name="testAsserts" time="0.005" classname="Phase2.Selenium_TestNG.AssertionTest" />
-                <testcase name="hardAssertTest" time="0.003" classname="Phase2.Selenium_TestNG.AssertionTest" />
-                <testcase name="softAssertTest" time="0.017" classname="Phase2.Selenium_TestNG.AssertionTest" />
+            <testcase name="hardAssertTest" time="0.007" classname="Phase2.Selenium_TestNG.AssertionTest" />
+                <testcase name="softAssertTest" time="0.021" classname="Phase2.Selenium_TestNG.AssertionTest" />
+                <testcase name="testAsserts" time="0.005" classname="Phase2.Selenium_TestNG.AssertionTest" />
       
 </testsuite>

@@ -22,11 +22,12 @@
 		</dependency>
 
 		<!-- selenium-java -->
-		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
-			<artifactId>selenium-java</artifactId>
-			<version>4.15.0</version>
-		</dependency>
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.16.1</version>
+</dependency>
+
 
 		<!-- reportng -->
 		<dependency>

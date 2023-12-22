@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="9.061">
+           time="11.074">
   <properties />
   
   
-            <testcase name="linkTest2" time="4.335" classname="Amazon_TestNG.LinkTest" />
-                <testcase name="linkTest1" time="4.726" classname="Amazon_TestNG.LinkTest" />
+            <testcase name="linkTest1" time="6.405" classname="Amazon_TestNG.LinkTest" />
+                <testcase name="linkTest2" time="4.669" classname="Amazon_TestNG.LinkTest" />
       
 </testsuite>
